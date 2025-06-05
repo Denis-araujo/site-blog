@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   robots: "index, follow",
   openGraph: {
     title: "Site.Set",
-    description: "",
+    description: "Venda seus produtos como afiliado em um único lugar",
     url: "https://site-blog-opal-gamma.vercel.app/og-image.png",
     siteName: "Site.Set",
     locale: "pt_BR",
